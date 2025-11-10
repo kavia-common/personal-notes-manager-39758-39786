@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/personal-notes-manager-39758-39786/notes_frontend
+flutter analyze
+
